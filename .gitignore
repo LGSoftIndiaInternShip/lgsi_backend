@@ -1,0 +1,8 @@
+
+*.db
+
+static/
+
+appsql.py
+
+database.db
