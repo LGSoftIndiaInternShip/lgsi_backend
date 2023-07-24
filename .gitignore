@@ -6,3 +6,14 @@ static/
 appsql.py
 
 database.db
+
+/runs
+
+junha.py
+
+/yolov4/appyolov4Imsi.py
+
+app_sqlite.py
+
+appbatch.py
+

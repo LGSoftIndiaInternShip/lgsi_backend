@@ -1,0 +1,6 @@
+train: ./splited_data/train/images
+val: ./splited_data/valid/images
+test: ./splited_data/test/images
+
+nc: 6
+names: ['car', 'truck', 'pedestrian', 'bicyclist', 'light', 'pothole']
